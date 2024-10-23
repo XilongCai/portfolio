@@ -1,0 +1,8 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景透明，无需 <rect> 元素 -->
+  
+  <!-- LENOKIA 文本 -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial" font-weight="bold" fill="white">
+    LENOKIA
+  </text>
+</svg>
