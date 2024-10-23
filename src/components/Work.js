@@ -7,7 +7,7 @@ import TrackVisibility from 'react-on-screen';
 export const Work = () => {
 
   return (
-    <section className="project" id="projects">
+    <section className="project" id="work">
       <Container>
         <Row>
           <Col size={12}>
